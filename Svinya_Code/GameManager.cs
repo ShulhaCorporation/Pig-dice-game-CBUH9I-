@@ -42,7 +42,7 @@ public class GameManager
             }
             else{
                 limit = 100;
-                Console.WriteLine("Некоректне значення. Операція не відбулася. Ліміт = 100 "+limit);
+                Console.WriteLine("Некоректне значення. Операція не відбулася. Ліміт = 100 ");
                 goto mark;
             }
         }
